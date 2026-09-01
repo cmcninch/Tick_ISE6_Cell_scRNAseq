@@ -50,8 +50,8 @@ This project uses [`renv`](https://rstudio.github.io/renv/) to manage package de
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<owner>/<REPO_NAME>.git
-cd <REPO_NAME>
+git clone https://github.com/cmcninch/Tick_ISE6_Cell_scRNAseq.git
+cd Tick_ISE6_Cell_scRNAseq
 
 # 2. Launch R in the project directory (auto-sources renv/activate.R)
 R
