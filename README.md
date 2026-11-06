@@ -73,4 +73,4 @@ source("scripts/Figure_03.R")
 All R paths are relative (via the `here` package), assuming the repository root as the working directory. `00_cellranger.sh` runs on an HPC with SLURM and CellRanger 7.2.0.
 
 # Citation
-Adegoke A, Aspinwall J, McNinch C, Ho MCW, Miranda AX, Hoyt F, Nair V, Lack J, Saito TB. *Insights into tick-pathogen interactions – a single cell RNA sequencing approach of transcriptional changes during ehrlichial infection.* bioRxiv (2026). https://doi.org/10.64898/2026.03.19.712879
+Adegoke A, Aspinwall J, McNinch C, Ho MCW, Miranda AX, Hoyt F, Nair V, Lack J, Saito TB. Ehrlichia infection progression drives tissue-independent transcriptional heterogeneity in tick cells. Front Cell Infect Microbiol. 2026;16:1961724. https://doi.org/10.3389/fcimb.2026.1961724
